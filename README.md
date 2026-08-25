@@ -139,11 +139,11 @@ See [`benchmarks/README.md`](benchmarks/README.md) for dataset layout, judge con
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#ApodexAI/AgentHarness&Date">
+<a href="https://star-history.dera.page/#ApodexAI/AgentHarness&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ApodexAI/AgentHarness&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ApodexAI/AgentHarness&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ApodexAI/AgentHarness&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=ApodexAI/AgentHarness&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=ApodexAI/AgentHarness&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=ApodexAI/AgentHarness&type=Date" />
   </picture>
 </a>
 
