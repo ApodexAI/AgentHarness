@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="./assets/apodex_logo.png" width="30%" alt="Apodex-1.0">
+    <img src="./assets/apodex_logo.jpeg" width="30%" alt="Apodex-1.0">
   </picture>
 </div>
 <hr>
